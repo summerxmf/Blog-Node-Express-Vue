@@ -1,0 +1,17 @@
+JavaScript Tutorial
+JavaScript is the world's most popular programming language.
+
+JavaScript is the programming language of the Web.
+
+JavaScript is easy to learn.
+
+This tutorial will teach you JavaScript from basic to advanced.
+
+Examples in Each Chapter
+With our "Try it Yourself" editor, you can edit the source code and view the result.
+
+Example
+My First JavaScript
+Click me to display Date and Time
+
+Use the Menu
